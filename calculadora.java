@@ -52,10 +52,10 @@ public class calculadora
                 
                 case 5: 
                 System.out.println("Introduzca los 2 numeros a multiplicar");
-                int d4 = t1.nextInt();
-                int d5 = t1.nextInt();
+                int d8 = t1.nextInt();
+                int d9 = t1.nextInt();
                 System.out.println("Resultado");
-                System.out.println(mult(d4, d5));
+                System.out.println(mult(d8, d9));
                 System.out.println("*****************************************************************************************************************");
                 break;
                 
